@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.box1 {
+  height: auto;
+  background-color: yellowgreen;
+  border-radius: 19px;
+}
+.outerbox {
+  margin-top: 10%;
+  border-radius: 19px;
+}
+.box2 {
+  padding: 15px;
+  border-radius: 19px;
+}
+.cards {
+  border-radius: 5px;
+}
